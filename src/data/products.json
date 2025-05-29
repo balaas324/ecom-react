@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Wireless Headphones",
+    "description": "High-quality sound with noise cancellation.",
+    "price": 89.99,
+    "image": "/assets/headphones.jpg",
+    "category": "electronics"
+  },
+  {
+    "id": 2,
+    "title": "Running Shoes",
+    "description": "Comfortable and durable running shoes.",
+    "price": 69.99,
+    "image": "/assets/shoes.jpg",
+    "category": "fashion"
+  },
+  {
+    "id": 3,
+    "title": "Smartphone",
+    "description": "Latest model with advanced features.",
+    "price": 699.99,
+    "image": "/assets/smartphone.jpg",
+    "category": "electronics"
+  },
+  {
+    "id": 4,
+    "title": "Leather Jacket",
+    "description": "Stylish leather jacket for all seasons.",
+    "price": 199.99,
+    "image": "/assets/jacket.jpg",
+    "category": "fashion"
+  },
+  {
+    "id": 5,
+    "title": "Gaming Laptop",
+    "description": "High-performance laptop for gaming and work.",
+    "price": 1299.99,
+    "image": "/assets/laptop.jpg",
+    "category": "electronics"
+  }
+]

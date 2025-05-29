@@ -1,0 +1,99 @@
+[
+  {
+    "id": 1,
+    "title": "Wireless Headphones",
+    "description": "High-quality sound with noise cancellation.",
+    "price": 89.99,
+    "image": "https://images.unsplash.com/photo-1511367461989-f85a21fda167?auto=format&fit=crop&w=400&q=80",
+    "category": "electronics"
+  },
+  {
+    "id": 2,
+    "title": "Running Shoes",
+    "description": "Comfortable and durable running shoes.",
+    "price": 69.99,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=2070&auto=format&fit=crop&&w=400&q=80",
+    "category": "fashion"
+  },
+  {
+    "id": 3,
+    "title": "Smartphone",
+    "description": "Latest model with advanced features.",
+    "price": 699.99,
+    "image": "https://images.unsplash.com/photo-1616410011236-7a42121dd981?q=80&w=1932&auto=format&fit=crop&&w=400&q=80",
+    "category": "electronics"
+  },
+  {
+    "id": 4,
+    "title": "Leather Jacket",
+    "description": "Stylish leather jacket for all seasons.",
+    "price": 199.99,
+    "image": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=400&q=80",
+    "category": "fashion"
+  },
+  {
+    "id": 5,
+    "title": "Gaming Laptop",
+    "description": "High-performance laptop for gaming and work.",
+    "price": 1299.99,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=400&q=80",
+    "category": "electronics"
+  },
+  {
+    "id": 6,
+    "title": "Smartwatch",
+    "description": "Track your fitness and stay connected.",
+    "price": 249.99,
+    "image": "https://images.unsplash.com/photo-1698729616509-060e8f58e6c0?q=80&w=2076&auto=format&fit=crop&&w=400&q=80",
+    "category": "electronics"
+  },
+  {
+    "id": 7,
+    "title": "Casual T-Shirt",
+    "description": "Comfortable cotton t-shirt for everyday wear.",
+    "price": 19.99,
+    "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=400&q=80",
+    "category": "fashion"
+  },
+  {
+    "id": 8,
+    "title": "Bluetooth Speaker",
+    "description": "Portable speaker with excellent sound quality.",
+    "price": 49.99,
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?q=80&w=1931&auto=format&fit=crop&&w=400&q=80",
+    "category": "electronics"
+  },
+  {
+    "id": 9,
+    "title": "Fitness Tracker",
+    "description": "Monitor your health and fitness goals.",
+    "price": 59.99,
+    "image": "https://images.unsplash.com/photo-1593642532973-d31b6557fa68?auto=format&fit=crop&w=400&q=80",
+    "category": "electronics"
+  },
+  {
+    "id": 10,
+    "title": "Stylish Sunglasses",
+    "description": "Protect your eyes with these trendy sunglasses.",
+    "price": 29.99,
+    "image": "https://images.unsplash.com/photo-1521747116042-5a810fda9664?auto=format&fit=crop&w=400&q=80",
+    "category": "fashion"
+  },
+  {
+    "id": 11,
+    "title": "Backpack",
+    "description": "Spacious and durable backpack for travel.",
+    "price": 39.99,
+    "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?auto=format&fit=crop&w=400&q=80",
+    "category": "fashion"
+  },
+  {
+    "id": 12,
+    "title": "Wireless Earbuds",
+    "description": "Compact and comfortable wireless earbuds.",
+    "price": 79.99,
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?q=80&w=1931&auto=format&fit=crop&&w=400&q=80",
+    "category": "electronics"
+  }
+]
+
